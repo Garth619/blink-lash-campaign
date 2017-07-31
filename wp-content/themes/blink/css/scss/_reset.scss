@@ -46,11 +46,18 @@ a.book_now {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-family: $josefinsemibold;
-	font-size:20px;
-	padding:13px 20px 10px;
+	font-size:22px;
+	padding:16px 20px 10px;
 	display: inline-block;
 	transition: all .2s ease-in-out;
+	line-height: 1;
 	&:hover {
 		background: $red;
+	}
+}
+
+.section_three {
+	a.book_now {
+		margin-top:15px;
 	}
 }

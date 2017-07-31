@@ -2,26 +2,31 @@
 	text-align: center;
 	padding:90px 0;
 	color:$black;
-	h1 {
-		font-family: $glosa;
-		color:$grey;
-		font-style: normal;
-		font-weight: 300;
-		font-size:37px;
-		margin:20px 0 0 0;
-		display: block;
-		&:after {
-			content: "";
-			width:100px;
-			height:3px;
-			background:$pinklight;
+	.sec_two_content {
+		max-width:800px;
+		margin-left:auto;
+		margin-right:auto;
+		h1 {
+			font-family: $glosa;
+			color:$grey;
+			font-style: normal;
+			font-weight: 300;
+			font-size:37px;
+			margin:20px 0 0 0;
 			display: block;
-			margin:25px auto 35px;
+			&:after {
+				content: "";
+				width:100px;
+				height:3px;
+				background:$pinklight;
+				display: block;
+				margin:25px auto 35px;
+			}
 		}
-	}
-	p {
-		font-size:24px;
-		line-height: 31px;
-		margin-bottom:35px;
+		p {
+			font-size:24px;
+			line-height: 31px;
+			margin-bottom:35px;
+		}
 	}
 }
