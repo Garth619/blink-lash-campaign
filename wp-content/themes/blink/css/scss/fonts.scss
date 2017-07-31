@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'HoneyScript-Light';
+	src: url('#{$themePath}fonts/HoneyScript-Light.eot');
+	src: url('#{$themePath}fonts/HoneyScript-Light.eot?#iefix') format('embedded-opentype'),
+		url('#{$themePath}fonts/HoneyScript-Light.woff') format('woff'),
+		url('#{$themePath}fonts/HoneyScript-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HoneyScript-SemiBold';
+	src: url('#{$themePath}fonts/HoneyScript-SemiBold.eot');
+	src: url('#{$themePath}fonts/HoneyScript-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('#{$themePath}fonts/HoneyScript-SemiBold.woff') format('woff'),
+		url('#{$themePath}fonts/HoneyScript-SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'JosefinSans';
+	src: url('#{$themePath}fonts/JosefinSans.eot');
+	src: url('#{$themePath}fonts/JosefinSans.eot?#iefix') format('embedded-opentype'),
+		url('#{$themePath}fonts/JosefinSans.woff') format('woff'),
+		url('#{$themePath}fonts/JosefinSans.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GlosaDisplay-Black';
+	src: url('#{$themePath}fonts/GlosaDisplay-Black.eot');
+	src: url('#{$themePath}fonts/GlosaDisplay-Black.eot?#iefix') format('embedded-opentype'),
+		url('#{$themePath}fonts/GlosaDisplay-Black.woff') format('woff'),
+		url('#{$themePath}fonts/GlosaDisplay-Black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'JosefinSans-SemiBold';
+	src: url('#{$themePath}fonts/JosefinSans-SemiBold.eot');
+	src: url('#{$themePath}fonts/JosefinSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('#{$themePath}fonts/JosefinSans-SemiBold.woff') format('woff'),
+		url('#{$themePath}fonts/JosefinSans-SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

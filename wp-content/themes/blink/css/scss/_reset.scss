@@ -17,6 +17,7 @@ body {
 -moz-osx-font-smoothing: grayscale;
 text-shadow: 1px 1px 1px rgba(0,0,0,0.05);
 line-height: 1;
+font-family: $josefin;
 }
 
 
@@ -27,4 +28,11 @@ body img.gform_ajax_spinner {
 
 header, section, nav, footer {
 	display: block;
+}
+
+
+.wrapper {
+	width:1020px;
+	margin:0 auto;
+	padding:0px 35px;
 }
