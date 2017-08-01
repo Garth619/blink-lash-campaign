@@ -1,3 +1,82 @@
 .section_four {
-	padding:40px 0;
+	padding:80px 0;
+	text-align: center;
+	.inner_wrapper {
+		overflow: hidden;
+	}
+	h1 {
+			font-family: $glosa;
+			color:$grey;
+			font-style: normal;
+			font-weight: 300;
+			font-size:37px;
+			margin:20px 0 0 0;
+			display: block;
+			&:after {
+				content: "";
+				width:100px;
+				height:3px;
+				background:$pinklight;
+				display: block;
+				margin:20px auto 35px;
+			}
+		}
+		
 }
+
+
+.location {
+	margin-top:65px;
+	width:49%;
+	
+	&:first-of-type {
+		float:left;
+	}
+	&:last-of-type {
+		float:right;
+	}
+	.location_content {
+		max-width:340px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	span, a.address, a.tel ,a.email, ul.hours {
+		display: block;
+		color:$grey;
+		margin-bottom:25px;
+		font-size: 19px;
+		text-transform: uppercase;
+		line-height: 23px;
+		
+	}
+	ul.hours {
+		list-style: none;
+		li {
+			margin-bottom:3px;
+		}
+	}
+	a {
+		text-decoration: none;
+		transition: all .2s ease-in-out;
+		&:hover {
+			color:$pinklight;
+		}
+	}
+	img {
+		display: inline-block;
+		margin-bottom: 30px;
+	}
+	span.pink {
+		color:$pinklight;
+		font-size:21px;
+	}
+	a.book_now {
+		font-size: 19px;
+		padding: 13px 16px 8px;
+		&:hover {
+			color:#fff;
+		}
+	}
+}
+
+

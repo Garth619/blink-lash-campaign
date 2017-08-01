@@ -7459,6 +7459,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/wp-content\/themes\/blink\/css\/scss\/_sectionfive.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/blink\/css\/scss\/_sectionfive.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/wp-content\/themes\/blink\/css\/scss\/_sectionfour.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7728,6 +7741,48 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/wp-content\/themes\/blink\/images\/location1.jpg": {
+		"ft": 16384,
+		"iS": 47419,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/location1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/location1.png": {
+		"ft": 32768,
+		"iS": 122650,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/location1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/location2.jpg": {
+		"ft": 16384,
+		"iS": 45230,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/location2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/location2.png": {
+		"ft": 32768,
+		"iS": 109580,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/location2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/wp-content\/themes\/blink\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 11276,
@@ -7737,6 +7792,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/pinkbg.jpg": {
+		"ft": 16384,
+		"iS": 96239,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/pinkbg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/wp-content\/themes\/blink\/images\/right.png": {
@@ -7766,6 +7831,26 @@
 		"iS": 5254,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/blink\/images\/slide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/test1.jpg": {
+		"ft": 16384,
+		"iS": 31935,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/test1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/test2.jpg": {
+		"ft": 16384,
+		"iS": 38958,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/test2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -150,9 +150,101 @@ get_header(); ?>
 
 <section class="section_four">
 	
+	<div class="inner_wrapper">
 	
+		<h1>Make an Appointment Today!</h1>
+		
+		<div class="location">
+			
+			<img src="<?php bloginfo('template_directory');?>/images/location1.jpg"/>
+			
+			<div class="location_content">
+				
+				<span class="pink">MISSION VALLEY</span><!-- pink -->
+		
+				<a class="address" href="https://www.google.com/maps?q=7801+Mission+Center+Ct.,+Suite+104+San+Diego,+CA+92108&oe=utf-8&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjonsSh_rTVAhWmrFQKHV0tB4kQ_AUICigB" target="_blank">7801 Mission Center Ct., Suite 104<br/> San Diego, CA 92108</a>
+					
+
+				<ul class="hours">
+					
+					<li>Tuesday – Friday 9am - 7pm</li>
+					<li>Saturday 9am - 3pm</li>
+					<li>Closed Sunday</li>
+					<li>Closed Monday</li>
+				</ul>
+				
+				<a class="tel" href="tel:619.964.6082">619.964.6082</a>
+		
+				<a class="email" href="mailto:info@blinklashboutique.com">info@blinklashboutique.com</a>
+			
+			</div><!-- location_content -->
+			
+			<a class="book_now" href="">Book Now</a><!-- book_now -->
+			
+		</div><!-- location -->
+		
+		<div class="location">
+			
+			<img src="<?php bloginfo('template_directory');?>/images/location2.jpg"/>
+			
+			<div class="location_content">
+				
+				<span class="pink">Solana Beach</span><!-- pink -->
+		
+				<a class="address" href="https://www.google.com/maps?q=665+San+Rodolfo+Dr.+Ste.+108+Solana+Beach,+CA+92075&rlz=1C5CHFA_enUS724US726&um=1&ie=UTF-8&sa=X&ved=0ahUKEwifj7qeg7XVAhViyVQKHcFwBswQ_AUICigB" target="_blank">665 San Rodolfo Dr. Ste. 108<br/> Solana Beach, CA 92075</a>
+					
+			
+				<ul class="hours">
+					
+					<li>Monday 11am - 5pm</li>
+					<li>Tuesday – Friday 9am - 8pm</li>
+					<li>Saturday 9am - 3pm</li>
+					<li>Closed Sunday</li>
+				</ul>
+				
+				<a class="tel" href="tel:858.436.4456">858.436.4456</a>
+		
+				<a class="email" href="mailto:info@blinklashboutique.com">info@blinklashboutique.com</a>
+			
+			</div><!-- location_content -->
+			
+			<a class="book_now" href="">Book Now</a><!-- book_now -->
+			
+		</div><!-- location -->
+	
+	</div><!-- inner_wrapper -->
 	
 </section><!-- section_four -->
+
+<section class="section_five">
+	
+	<div class="inner_wrapper">
+		
+		<h1>WHat Others Are Saying</h1>
+		
+		<div class="testi">
+			
+			<img src="<?php bloginfo('template_directory');?>/images/test1.jpg"/>
+			
+			<span class="name">Kiana C.</span><!-- name -->
+			
+			<p>I was referred to go here by a friend and boy was I happy I went! All the girls are sweet as can be. Not to mention the decor and vibe is adorable and very relaxing. Their lashes, technique, and products are top of the line. My fiancé loves when I get my lashes done here, they look so natural and flawless! I constantly recieve complimaints. It's definitely worth the time and money to pamper ourselves with the best out there! Without a doubt I would recommend going to Blink Lask Boutique in either location, you won't regret it!</p>
+			
+		</div><!-- testi -->
+		
+		<div class="testi">
+			
+			<img src="<?php bloginfo('template_directory');?>/images/test2.jpg"/>
+			
+			<span class="name">Alexandra G.</span><!-- name -->
+			
+			<p>Throughout my entire life my eyelashes, or lack thereof, have always been my biggest insecurity. Ever since I discovered Blink Lash, my life has truly turned around. I started going to Blink a little over two years ago, and I have been hooked ever since. I would highly recommend booking an appointment at their Mission Valley location! Not only is it convenient to get there, the process is very comfortable and relaxing, all at a great price point. I promise, if you visitBlink Lash in Mission Valley then you will not be disappointed.</p>
+			
+		</div><!-- testi -->
+		
+	</div><!-- inner_wrapper -->
+	
+</section><!-- section_five -->
 
 
 
