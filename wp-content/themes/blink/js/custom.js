@@ -35,7 +35,16 @@ jQuery(document).ready(function(){
  		 slidesToScroll: 2,
  		 slide: '.slideshow .slide',
  		 prevArrow: '.buttons .back',
- 		 nextArrow: '.buttons .next'
+ 		 nextArrow: '.buttons .next',
+ 		 lazyLoad: 'ondemand',
+ 		 responsive: [
+ 		 {
+      breakpoint: 760,
+      settings: {
+        vertical:true
+      }
+    }
+  ]
 });
 	
 	

@@ -7434,6 +7434,14 @@
 		"oAP": "\/wp-content\/themes\/blink\/404.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/blink\/ajax-loader.gif": {
+		"ft": 4194304,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/ajax-loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/wp-content\/themes\/blink\/archive.php": {
 		"ft": 8192,
 		"oA": 2,

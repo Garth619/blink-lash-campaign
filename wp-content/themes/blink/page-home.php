@@ -49,7 +49,7 @@ get_header(); ?>
 	
 		<h1>Why Blink Lash Boutique?</h1>
 	
-		<p>Welcome to Blink Lash Boutique, where Eyelash Extensions are our passion!  It is our mission to provide you with the highest degree of client service in a beautiful and welcoming setting.  We have been dedicated to the fine skill and art of Eyelash Extension application since 2006.  All of our Lash Stylists undergo extensive training and must meet all of the licensing requirements by the state of CA, as well as demonstrate their skilled technique to Blink’s owners.  This is to ensure that you, our valued client, will have the best application of Eyelash Extensions anywhere.</p>
+		<p>Welcome to Blink Lash Boutique, where Eyelash Extensions are our passion!  It is our mission to provide you with the highest degree of client service in a beautiful and welcoming setting.  We have been dedicated to the fine skill and art of Eyelash Extension application since 2006.  All of our Lash Stylists undergo extensive training and must meet all of the licensing requirements by the state of CA, as well as demonstrate their skilled technique to Blink’s owners.  This is to ensure that you, our valued client, will have the best application of Eyelash Extensions&nbsp;anywhere.</p>
 	
 		<a class="book_now" href="">Book Now</a><!-- book_now -->
 		
@@ -83,49 +83,49 @@ get_header(); ?>
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
 			
 		</div><!-- slide -->
 		
@@ -134,9 +134,9 @@ get_header(); ?>
 	<div class="sec_three_content">
 		
 		
-		<p>At Blink Lash Boutique we do not cut corners.  We use the finest products available and are dedicated to taking the utmost care to ensure the health of your natural lashes.  We use our artistry and skill so that each set applied is perfect for your eyes, the length of your natural lashes, and the look you are going for.</p> 
+		<p>At Blink Lash Boutique we do not cut corners.  We use the finest products available and are dedicated to taking the utmost care to ensure the health of your natural lashes.  We use our artistry and skill so that each set applied is perfect for your eyes, the length of your natural lashes, and the look you are going&nbsp;for.</p> 
 
-<p>It is our guarantee that you will leave with the most flawless and beautiful set of Eyelash Extensions that will leave you wondering how you ever lived without them!</p>
+<p>It is our guarantee that you will leave with the most flawless and beautiful set of Eyelash Extensions that will leave you wondering how you ever lived without&nbsp;them!</p>
 		
 	<a class="book_now" href="">Book Now</a><!-- book_now -->
 
@@ -228,7 +228,7 @@ get_header(); ?>
 			
 			<span class="name">Kiana C.</span><!-- name -->
 			
-			<p>I was referred to go here by a friend and boy was I happy I went! All the girls are sweet as can be. Not to mention the decor and vibe is adorable and very relaxing. Their lashes, technique, and products are top of the line. My fiancé loves when I get my lashes done here, they look so natural and flawless! I constantly recieve complimaints. It's definitely worth the time and money to pamper ourselves with the best out there! Without a doubt I would recommend going to Blink Lask Boutique in either location, you won't regret it!</p>
+			<p>I was referred to go here by a friend and boy was I happy I went! All the girls are sweet as can be. Not to mention the decor and vibe is adorable and very relaxing. Their lashes, technique, and products are top of the line. My fiancé loves when I get my lashes done here, they look so natural and flawless! I constantly recieve complimaints. It's definitely worth the time and money to pamper ourselves with the best out there! Without a doubt I would recommend going to Blink Lask Boutique in either location, you won't regret&nbsp;it!</p>
 			
 		</div><!-- testi -->
 		
@@ -238,7 +238,7 @@ get_header(); ?>
 			
 			<span class="name">Alexandra G.</span><!-- name -->
 			
-			<p>Throughout my entire life my eyelashes, or lack thereof, have always been my biggest insecurity. Ever since I discovered Blink Lash, my life has truly turned around. I started going to Blink a little over two years ago, and I have been hooked ever since. I would highly recommend booking an appointment at their Mission Valley location! Not only is it convenient to get there, the process is very comfortable and relaxing, all at a great price point. I promise, if you visitBlink Lash in Mission Valley then you will not be disappointed.</p>
+			<p>Throughout my entire life my eyelashes, or lack thereof, have always been my biggest insecurity. Ever since I discovered Blink Lash, my life has truly turned around. I started going to Blink a little over two years ago, and I have been hooked ever since. I would highly recommend booking an appointment at their Mission Valley location! Not only is it convenient to get there, the process is very comfortable and relaxing, all at a great price point. I promise, if you visitBlink Lash in Mission Valley then you will not be&nbsp;disappointed.</p>
 			
 		</div><!-- testi -->
 		

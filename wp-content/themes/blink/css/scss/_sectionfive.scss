@@ -56,3 +56,49 @@
 		margin-right:auto;
 	}
 }
+
+
+
+@media screen and (max-width: 1075px) {
+	
+	
+	.section_five {
+		padding:55px 0;
+	}
+	
+	
+	.testi {
+		margin-top:20px;
+		width:100%;
+		margin-bottom:55px;
+		&:last-of-type {
+			margin-bottom:0;
+		}
+		&:first-of-type {
+		float:none;
+		}
+		&:last-of-type {
+			float:none;
+		}
+	}
+	
+	
+	
+	
+} /* Media Query */
+
+
+@media screen and (max-width: 595px) {
+	
+	
+	
+	.section_five {
+		h1 {
+			max-width: 260px;
+			margin-left:auto;
+			margin-right:auto;
+		}
+	}
+	
+	
+} /* Media Query */
