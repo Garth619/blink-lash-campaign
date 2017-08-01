@@ -22,7 +22,7 @@ get_header(); ?>
 		
 		<div class="col col_right">
 			
-			<div class="form_wrapper">
+			<div id="myform" class="form_wrapper">
 				
 				<span class="learn_more">Learn More Today!</span><!-- learn_more -->
 				
