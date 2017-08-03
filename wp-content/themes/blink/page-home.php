@@ -83,52 +83,41 @@ get_header(); ?>
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide1.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide2.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide3.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide4.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide5.jpg"/>
 			
 		</div><!-- slide -->
 		
 		<div class="slide">
 			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/slide6.jpg"/>
 			
 		</div><!-- slide -->
 		
-		<div class="slide">
-			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
-			
-		</div><!-- slide -->
-		
-		<div class="slide">
-			
-			<img data-lazy="<?php bloginfo('template_directory');?>/images/slide.jpg"/>
-			
-		</div><!-- slide -->
-		
+				
 	</div><!-- slideshow -->
 	
 	<div class="sec_three_content">

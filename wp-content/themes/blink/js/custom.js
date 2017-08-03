@@ -36,7 +36,7 @@ jQuery(document).ready(function(){
  		 slide: '.slideshow .slide',
  		 prevArrow: '.buttons .back',
  		 nextArrow: '.buttons .next',
- 		 lazyLoad: 'ondemand',
+ 		 
  		 responsive: [
  		 {
       breakpoint: 760,
