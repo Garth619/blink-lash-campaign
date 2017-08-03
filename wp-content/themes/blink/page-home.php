@@ -51,7 +51,7 @@ get_header(); ?>
 	
 		<p>Welcome to Blink Lash Boutique, where Eyelash Extensions are our passion!  It is our mission to provide you with the highest degree of client service in a beautiful and welcoming setting.  We have been dedicated to the fine skill and art of Eyelash Extension application since 2006.  All of our Lash Stylists undergo extensive training and must meet all of the licensing requirements by the state of CA, as well as demonstrate their skilled technique to Blink’s owners.  This is to ensure that you, our valued client, will have the best application of Eyelash Extensions&nbsp;anywhere.</p>
 	
-		<a class="book_now" href="">Book Now</a><!-- book_now -->
+		<span class="book_now multi_location" href="">Book Now</span><!-- book_now -->
 		
 		</div><!-- sec_two_content -->
 	
@@ -138,7 +138,7 @@ get_header(); ?>
 
 <p>It is our guarantee that you will leave with the most flawless and beautiful set of Eyelash Extensions that will leave you wondering how you ever lived without&nbsp;them!</p>
 		
-	<a class="book_now" href="">Book Now</a><!-- book_now -->
+	<span class="book_now multi_location" href="">Book Now</span><!-- book_now -->
 
 	</div><!-- sec_three_content -->
 	
@@ -179,7 +179,7 @@ get_header(); ?>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now" href="">Book Now</a><!-- book_now -->
+			<a class="book_now" href="http://www.secure-booker.com/blinksandiego/MakeAppointment/Search.aspx" target="_blank">Book Now</a><!-- book_now -->
 			
 		</div><!-- location -->
 		
@@ -208,7 +208,7 @@ get_header(); ?>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now" href="">Book Now</a><!-- book_now -->
+			<a class="book_now" href="http://www.secure-booker.com/blinksolana/MakeAppointment/Search.aspx" target="_blank">Book Now</a><!-- book_now -->
 			
 		</div><!-- location -->
 	

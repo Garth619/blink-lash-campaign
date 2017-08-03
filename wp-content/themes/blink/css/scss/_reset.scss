@@ -55,7 +55,7 @@ header, section, nav, footer {
 
 
 
-a.book_now {
+.book_now {
 	background: $pinkdark;
 	color:#fff;
 	text-decoration: none;
@@ -66,13 +66,14 @@ a.book_now {
 	display: inline-block;
 	transition: all .2s ease-in-out;
 	line-height: 1;
+	cursor: pointer;
 	&:hover {
 		background: $red;
 	}
 }
 
 .section_three {
-	a.book_now {
+	.book_now {
 		margin-top:15px;
 	}
 }

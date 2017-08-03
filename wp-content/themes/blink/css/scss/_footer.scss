@@ -1,5 +1,72 @@
 footer {
 	display: none;
+	
+}
+
+
+.book_now_overlay.open {
+	opacity: 1;
+	visibility: visible;
+}
+
+.book_now_overlay {
+	position: fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:500;
+	background: rgba(0, 0, 0, 0.7);
+	opacity: 0;
+	visibility: hidden;
+	transition: all .4s ease-in-out;
+	overflow-y: scroll;
+	.book_now_inner_overlay {
+		text-align: center;
+		width:100%;
+		max-width:500px;
+		height:500px;
+		background:#fff;
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+		margin-left:auto;
+		margin-right:auto;
+		padding:45px;
+		position: relative;
+		span.close {
+			position: absolute;
+			top:10px;
+			right:10px;
+			font-size:20px;
+			cursor: pointer;
+			transition: all .2s ease-in-out;
+			&:hover {
+				color:$pinkdark;
+			}
+		}
+		img {
+			margin-left:-30px;
+			
+		}
+		span.overlay_title {
+			display: block;
+			font-size:20px;
+			margin:20px 0 30px;
+		}
+		span.overlay_location_title {
+			display: block;
+			font-family: $glosa;
+			color:$grey;
+			font-size:32px;
+			margin-bottom:15px;
+			letter-spacing: 1px;
+		}
+		.book_now {
+			margin-bottom:30px;
+			font-size:18px;
+		}
+	}
 }
 
 
@@ -26,17 +93,57 @@ footer {
 		background:$pinkdark;
 		font-family: $glosa;
 		color:#fff;
+		&:hover {
+				background: $red;
+				
+			}
 		a {
 			text-decoration: none;
 			color:#fff;
 			display: block;
+			transition: all .2s ease-in-out;
+			
 		}
 	}
-	.book_now {
+	.book_now_sticky {
 		font-family: $glosa;
 		color:$pinkdark;
+		background:#fff;
+		transition: all .2s ease-in-out;
+		cursor: pointer;
+		&:hover {
+			background:$red;
+			color:#fff;
+		}
 	}
 }
 
 
+
+.book_now_overlay {
+	
+	.book_now_inner_overlay {
+		position: relative;
+		top: 0%;
+		transform:none;
+		margin:45px auto;
+		width:95%;
+		
+	}
+}
+
+
+
+
+} /* Media Query */
+
+
+@media screen and (max-width: 760px) {
+	
+	
+
+	
+	
+	
+	
 } /* Media Query */

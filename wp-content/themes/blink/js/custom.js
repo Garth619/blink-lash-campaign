@@ -62,6 +62,20 @@ $(function() {
     }
   });
 });
+
+
+$('.multi_location').click(function(){
+	
+	$('.book_now_overlay').addClass('open');
+	
+});
+
+
+$('.close').click(function(){
+	
+	$('.book_now_overlay').removeClass('open');
+	
+});
 	
 	
 	
