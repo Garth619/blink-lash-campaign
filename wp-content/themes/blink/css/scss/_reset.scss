@@ -77,3 +77,31 @@ header, section, nav, footer {
 		margin-top:15px;
 	}
 }
+
+
+
+
+.desktop_book_now {
+	
+}
+
+
+.mobile_book_now {
+	display: none;
+}
+
+
+@media screen and (max-width: 1075px) {
+	
+	
+	
+.desktop_book_now {
+	display: none;
+}
+
+
+.mobile_book_now {
+	display: inline-block;
+}
+	
+} /* Media Query */

@@ -162,7 +162,9 @@ get_header(); ?>
 			
 			
 			
-			<a class="book_now" href="<?php the_field( 'mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now desktop_book_now" href="<?php the_field( 'mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			
+			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mobile_-_mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 		
@@ -202,7 +204,10 @@ get_header(); ?>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now" href="<?php the_field( 'solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now desktop_book_now" href="<?php the_field( 'solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			
+			
+			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mobile_-_solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 	
@@ -214,25 +219,25 @@ get_header(); ?>
 	
 	<div class="inner_wrapper">
 		
-		<h1>WHat Others Are Saying</h1>
+		<h1><?php the_field( 'section_4_title' ); ?></h1>
 		
 		<div class="testi">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/test1.jpg"/>
+			<img src="<?php the_field( 'section_4_image' ); ?>"/>
 			
-			<span class="name">Kiana C.</span><!-- name -->
+			<span class="name"><?php the_field( 'section_4_name' ); ?></span><!-- name -->
 			
-			<p>I was referred to go here by a friend and boy was I happy I went! All the girls are sweet as can be. Not to mention the decor and vibe is adorable and very relaxing. Their lashes, technique, and products are top of the line. My fiancé loves when I get my lashes done here, they look so natural and flawless! I constantly recieve complimaints. It's definitely worth the time and money to pamper ourselves with the best out there! Without a doubt I would recommend going to Blink Lask Boutique in either location, you won't regret&nbsp;it!</p>
+			<p><?php the_field( 'section_4_content' ); ?></p>
 			
 		</div><!-- testi -->
 		
 		<div class="testi">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/test2.jpg"/>
+			<img src="<?php the_field( 'section_4_image_2' ); ?>"/>
 			
-			<span class="name">Alexandra G.</span><!-- name -->
+			<span class="name"><?php the_field( 'section_4_name_2' ); ?></span><!-- name -->
 			
-			<p>Throughout my entire life my eyelashes, or lack thereof, have always been my biggest insecurity. Ever since I discovered Blink Lash, my life has truly turned around. I started going to Blink a little over two years ago, and I have been hooked ever since. I would highly recommend booking an appointment at their Mission Valley location! Not only is it convenient to get there, the process is very comfortable and relaxing, all at a great price point. I promise, if you visitBlink Lash in Mission Valley then you will not be&nbsp;disappointed.</p>
+			<p><?php the_field( 'section_4_content_2' ); ?>.</p>
 			
 		</div><!-- testi -->
 		
