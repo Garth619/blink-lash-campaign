@@ -14,9 +14,9 @@ get_header(); ?>
 			
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/logo.png"/>
 			
-			<span class="tagline">San Diego’s Premiere Lash Boutique</span><!-- tagline -->
+			<span class="tagline"><?php the_field( 'tagline' ); ?></span><!-- tagline -->
 			
-			<img class="intro" src="<?php bloginfo('template_directory');?>/images/intro.jpg"/>
+			<img class="intro" src="<?php the_field( 'intro_image' ); ?>"/>
 			
 		</div><!-- col -->
 		
@@ -24,9 +24,9 @@ get_header(); ?>
 			
 			<div id="myform" class="form_wrapper">
 				
-				<span class="learn_more">Learn More Today!</span><!-- learn_more -->
+				<span class="learn_more"><?php the_field( 'form_call_to_action' ); ?></span><!-- learn_more -->
 				
-				<a class="call" href="tel:6199646082">619.964.6082</a>
+				<a class="call" href="tel:<?php the_field( 'phone_number' ); ?>"><?php the_field( 'phone_number' ); ?></a>
 				
 				<?php gravity_form(1, false, false, false, '', true, 12); ?>
 				
@@ -47,11 +47,11 @@ get_header(); ?>
 		
 		<div class="sec_two_content">
 	
-		<h1>Why Blink Lash Boutique?</h1>
+		<h1><?php the_field( 'section_1_title' ); ?></h1>
 	
-		<p>Welcome to Blink Lash Boutique, where Eyelash Extensions are our passion!  It is our mission to provide you with the highest degree of client service in a beautiful and welcoming setting.  We have been dedicated to the fine skill and art of Eyelash Extension application since 2006.  All of our Lash Stylists undergo extensive training and must meet all of the licensing requirements by the state of CA, as well as demonstrate their skilled technique to Blink’s owners.  This is to ensure that you, our valued client, will have the best application of Eyelash Extensions&nbsp;anywhere.</p>
+		<?php the_field( 'section_1_content' ); ?>
 	
-		<span class="book_now multi_location" href="">Book Now</span><!-- book_now -->
+		<span class="book_now multi_location"><?php the_field( 'book_now_button_verbiage' ); ?></span><!-- book_now -->
 		
 		</div><!-- sec_two_content -->
 	
@@ -65,7 +65,7 @@ get_header(); ?>
 	
 	<div class="inner_wrapper">
 	
-	<h1>The Benefits of Blink Lash Boutique</h1>
+	<h1><?php the_field( 'section_2_title' ); ?></h1>
 	
 	<div class="slideshow">
 		
@@ -81,53 +81,34 @@ get_header(); ?>
 			
 		</div><!-- buttons -->
 		
-		<div class="slide">
-			
-			<img src="<?php bloginfo('template_directory');?>/images/slide1.jpg"/>
-			
-		</div><!-- slide -->
 		
-		<div class="slide">
-			
-			<img src="<?php bloginfo('template_directory');?>/images/slide2.jpg"/>
-			
-		</div><!-- slide -->
 		
-		<div class="slide">
+		<?php if(get_field('before_and_after_slides')): ?>
+		 
+			<?php while(has_sub_field('before_and_after_slides')): ?>
+		 
+					<div class="slide">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/slide3.jpg"/>
+						<img src="<?php the_sub_field( 'slides' ); ?>"/>
 			
-		</div><!-- slide -->
+					</div><!-- slide -->
+		    
+			<?php endwhile; ?>
+		 
+		<?php endif; ?>
 		
-		<div class="slide">
-			
-			<img src="<?php bloginfo('template_directory');?>/images/slide4.jpg"/>
-			
-		</div><!-- slide -->
-		
-		<div class="slide">
-			
-			<img src="<?php bloginfo('template_directory');?>/images/slide5.jpg"/>
-			
-		</div><!-- slide -->
-		
-		<div class="slide">
-			
-			<img src="<?php bloginfo('template_directory');?>/images/slide6.jpg"/>
-			
-		</div><!-- slide -->
-		
+
+				
 				
 	</div><!-- slideshow -->
 	
 	<div class="sec_three_content">
 		
 		
-		<p>At Blink Lash Boutique we do not cut corners.  We use the finest products available and are dedicated to taking the utmost care to ensure the health of your natural lashes.  We use our artistry and skill so that each set applied is perfect for your eyes, the length of your natural lashes, and the look you are going&nbsp;for.</p> 
-
-<p>It is our guarantee that you will leave with the most flawless and beautiful set of Eyelash Extensions that will leave you wondering how you ever lived without&nbsp;them!</p>
+		<?php the_field( 'section_2_content' ); ?>
 		
-	<span class="book_now multi_location" href="">Book Now</span><!-- book_now -->
+				
+	<span class="book_now multi_location"><?php the_field( 'book_now_button_verbiage' ); ?></span><!-- book_now -->
 
 	</div><!-- sec_three_content -->
 	
@@ -141,34 +122,47 @@ get_header(); ?>
 	
 	<div class="inner_wrapper">
 	
-		<h1>Make an Appointment Today!</h1>
+		<h1><?php the_field( 'section_3_title' ); ?></h1>
 		
 		<div class="location">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/location1.jpg"/>
+			<img src="<?php the_field( 'location_1_image' ); ?>"/>
 			
 			<div class="location_content">
 				
-				<span class="pink">MISSION VALLEY</span><!-- pink -->
+				
+				
+				<span class="pink"><?php the_field( 'location_1_title' ); ?></span><!-- pink -->
 		
-				<a class="address" href="https://www.google.com/maps?q=7801+Mission+Center+Ct.,+Suite+104+San+Diego,+CA+92108&oe=utf-8&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjonsSh_rTVAhWmrFQKHV0tB4kQ_AUICigB" target="_blank">7801 Mission Center Ct., Suite 104<br/> San Diego, CA 92108</a>
+				<a class="address" href="<?php the_field( 'location_1_address_link' ); ?>" target="_blank"><?php the_field( 'location_1_address' ); ?></a>
 					
 
 				<ul class="hours">
 					
-					<li>Tuesday – Friday 9am - 7pm</li>
-					<li>Saturday 9am - 3pm</li>
-					<li>Closed Sunday</li>
-					<li>Closed Monday</li>
+					
+					<?php if(get_field('location_1_hours')): ?>
+					 
+						<?php while(has_sub_field('location_1_hours')): ?>
+					 
+							<li><?php the_sub_field( 'new_line_item' ); ?></li>
+					
+					    
+						<?php endwhile; ?>
+					 
+					<?php endif; ?>
+					
+					
 				</ul>
 				
-				<a class="tel" href="tel:619.964.6082">619.964.6082</a>
+				<a class="tel" href="tel:<?php the_field( 'location_1_phone' ); ?>"><?php the_field( 'location_1_phone' ); ?></a>
 		
-				<a class="email" href="mailto:info@blinklashboutique.com">info@blinklashboutique.com</a>
+				<a class="email" href="mailto:<?php the_field( 'location_1_email' ); ?>"><?php the_field( 'location_1_email' ); ?></a>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now" href="http://www.secure-booker.com/blinksandiego/MakeAppointment/Search.aspx" target="_blank">Book Now</a><!-- book_now -->
+			
+			
+			<a class="book_now" href="<?php the_field( 'mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 		
@@ -178,26 +172,37 @@ get_header(); ?>
 			
 			<div class="location_content">
 				
-				<span class="pink">Solana Beach</span><!-- pink -->
+				
+				
+				<span class="pink"><?php the_field( 'location_2_title' ); ?></span><!-- pink -->
 		
-				<a class="address" href="https://www.google.com/maps?q=665+San+Rodolfo+Dr.+Ste.+108+Solana+Beach,+CA+92075&rlz=1C5CHFA_enUS724US726&um=1&ie=UTF-8&sa=X&ved=0ahUKEwifj7qeg7XVAhViyVQKHcFwBswQ_AUICigB" target="_blank">665 San Rodolfo Dr. Ste. 108<br/> Solana Beach, CA 92075</a>
+				<a class="address" href="<?php the_field( 'location_2_address_link' ); ?>" target="_blank"><?php the_field( 'location_2_address' ); ?></a>
 					
-			
+
 				<ul class="hours">
 					
-					<li>Monday 11am - 5pm</li>
-					<li>Tuesday – Friday 9am - 8pm</li>
-					<li>Saturday 9am - 3pm</li>
-					<li>Closed Sunday</li>
+					
+					<?php if(get_field('location_2_hours')): ?>
+					 
+						<?php while(has_sub_field('location_2_hours')): ?>
+					 
+							<li><?php the_sub_field( 'new_line_item' ); ?></li>
+					
+					    
+						<?php endwhile; ?>
+					 
+					<?php endif; ?>
+					
+					
 				</ul>
 				
-				<a class="tel" href="tel:858.436.4456">858.436.4456</a>
+				<a class="tel" href="tel:<?php the_field( 'location_2_phone' ); ?>"><?php the_field( 'location_2_phone' ); ?></a>
 		
-				<a class="email" href="mailto:info@blinklashboutique.com">info@blinklashboutique.com</a>
+				<a class="email" href="mailto:<?php the_field( 'location_2_email' ); ?>"><?php the_field( 'location_2_email' ); ?></a>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now" href="http://www.secure-booker.com/blinksolana/MakeAppointment/Search.aspx" target="_blank">Book Now</a><!-- book_now -->
+			<a class="book_now" href="<?php the_field( 'solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 	
