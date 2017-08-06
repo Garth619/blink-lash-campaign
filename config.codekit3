@@ -4533,6 +4533,12 @@
 		"oAP": "\/wp-content\/index.php",
 		"oF": 0
 		},
+	"\/wp-content\/mu-plugins\/wp-migrate-db-pro-compatibility.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/mu-plugins\/wp-migrate-db-pro-compatibility.php",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/acf-content-analysis-for-yoast-seo\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -18619,6 +18625,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/logo-150x106.png": {
+		"ft": 32768,
+		"iS": 7465,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/logo-150x106.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/logo.png": {
+		"ft": 32768,
+		"iS": 9871,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/wp-content\/uploads\/ithemes-security\/backups\/index.php": {
