@@ -12,11 +12,11 @@ get_header(); ?>
 	
 		<div class="col col_left">
 			
-			<img class="logo" src="<?php bloginfo('template_directory');?>/images/logo.png"/>
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/logo.png" alt="Blink Lash Botuique Logo"/>
 			
 			<span class="tagline"><?php the_field( 'tagline' ); ?></span><!-- tagline -->
 			
-			<img class="intro" src="<?php the_field( 'intro_image' ); ?>"/>
+			<img class="intro" src="<?php the_field( 'intro_image' ); ?>" alt="Blink Lash Botuique Model"/>
 			
 		</div><!-- col -->
 		
@@ -43,7 +43,7 @@ get_header(); ?>
 	
 	<div class="inner_wrapper">
 	
-		<img src="<?php bloginfo('template_directory');?>/images/b.jpg"/>
+		<img src="<?php bloginfo('template_directory');?>/images/b.jpg" alt="Blink Lash Botuique Intro"/>
 		
 		<div class="sec_two_content">
 	
@@ -72,11 +72,11 @@ get_header(); ?>
 		<div class="buttons">
 			
 			<div class="back single_button">
-				<img src="<?php bloginfo('template_directory');?>/images/left.png"/>
+				<img src="<?php bloginfo('template_directory');?>/images/left.png" alt="back"/>
 			</div><!-- back -->
 			
 			<div class="next single_button">
-				<img src="<?php bloginfo('template_directory');?>/images/right.png"/>
+				<img src="<?php bloginfo('template_directory');?>/images/right.png" alt="next"/>
 			</div><!-- next -->
 			
 		</div><!-- buttons -->
@@ -89,7 +89,7 @@ get_header(); ?>
 		 
 					<div class="slide">
 			
-						<img src="<?php the_sub_field( 'slides' ); ?>"/>
+						<img src="<?php the_sub_field( 'slides' ); ?>" alt="Before and After Slides"/>
 			
 					</div><!-- slide -->
 		    
@@ -126,7 +126,7 @@ get_header(); ?>
 		
 		<div class="location">
 			
-			<img src="<?php the_field( 'location_1_image' ); ?>"/>
+			<img src="<?php the_field( 'location_1_image' ); ?>" alt="Mission Valley"/>
 			
 			<div class="location_content">
 				
@@ -170,7 +170,7 @@ get_header(); ?>
 		
 		<div class="location">
 			
-			<img src="<?php bloginfo('template_directory');?>/images/location2.jpg"/>
+			<img src="<?php bloginfo('template_directory');?>/images/location2.jpg" alt="Solana Beach"/>
 			
 			<div class="location_content">
 				
@@ -223,7 +223,7 @@ get_header(); ?>
 		
 		<div class="testi">
 			
-			<img src="<?php the_field( 'section_4_image' ); ?>"/>
+			<img src="<?php the_field( 'section_4_image' ); ?>" alt="Kiana C."/>
 			
 			<span class="name"><?php the_field( 'section_4_name' ); ?></span><!-- name -->
 			
@@ -233,7 +233,7 @@ get_header(); ?>
 		
 		<div class="testi">
 			
-			<img src="<?php the_field( 'section_4_image_2' ); ?>"/>
+			<img src="<?php the_field( 'section_4_image_2' ); ?>" alt="Alexandra G."/>
 			
 			<span class="name"><?php the_field( 'section_4_name_2' ); ?></span><!-- name -->
 			
