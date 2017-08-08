@@ -12212,6 +12212,1780 @@
 		"oAP": "\/wp-content\/plugins\/index.php",
 		"oF": 0
 		},
+	"\/wp-content\/plugins\/simple-history\/bin\/install-wp-tests.sh": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/bin\/install-wp-tests.sh",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/css\/github-markdown.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/css\/github-markdown-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryDonateDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryDonateDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryExportDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryExportDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryFilterDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryIpInfoDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifier.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifier.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryNewRowsNotifierDropin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryPluginPatchesDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryPluginPatchesDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryRSSDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryRSSDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsDebugDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsDebugDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsLogtestDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsLogtestDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySettingsStatsDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarSettings.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarSettings.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarStats.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistorySidebarStats.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryWPCLIDropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/dropins\/SimpleHistoryWPCLIDropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/examples\/example-dropin.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/examples\/example-dropin.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/examples\/example-logger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/examples\/example-logger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/examples\/examples.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/examples\/examples.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/gruntfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/gruntfile-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/img\/ui-icons_888888_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/img\/ui-icons_888888_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/simple-history\/inc\/SimpleHistory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/inc\/SimpleHistory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/inc\/SimpleHistoryLogQuery.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/inc\/SimpleHistoryLogQuery.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/index.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/Chart.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/Chart-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/scripts.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/scripts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/component.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/component-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/release.sh": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/release.sh",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2-bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2-spinner.gif": {
+		"ft": 4194304,
+		"iS": 1849,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-spinner.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.jquery.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2.jquery-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2.png": {
+		"ft": 32768,
+		"iS": 613,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ar.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ar-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_az.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_az-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_bg.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_bg-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ca.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ca-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_cs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_cs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_da.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_da-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_de.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_de-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_el.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_el-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_en.js.template": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_en.js.template",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_es.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_et.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_et-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_eu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_eu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fa.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fa-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fi.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fi-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_gl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_gl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_he.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_he-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_hr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_hr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_hu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_id.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_id-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_is.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_is-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_it.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ja.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ka.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ka-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ko.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_lt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_lt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_lv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_lv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_mk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_mk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ms.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ms-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_nl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_no.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_no-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pt-BR.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pt-BR-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pt-PT.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_pt-PT-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ro.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_rs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_rs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ru.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_sk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_sv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_sv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_th.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_th-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_tr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_tr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ug-CN.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_ug-CN-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_uk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_uk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_vi.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_vi-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_zh-CN.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_zh-CN-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_zh-TW.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2_locale_zh-TW-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/select2\/select2x2.png": {
+		"ft": 32768,
+		"iS": 845,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/select2\/select2x2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/jquery.timeago.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/jquery.timeago-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.af.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.af-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ar.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ar-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.bg.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.bg-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.bs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.bs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ca.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ca-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.cs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.cs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.cy.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.cy-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.da.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.da-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.de.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.de-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.dv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.dv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.el.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.el-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.en-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.en-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.en.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.en-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.es-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.es-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.es.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.et.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.et-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.eu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.eu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fa-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fa-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fa.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fa-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fi.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fi-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fr-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fr-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.gl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.gl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.he.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.he-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hu.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hy.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.hy-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.id.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.id-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.is.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.is-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.it-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.it-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.it.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ja.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.jv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.jv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ko.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ky.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ky-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.lt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.lt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.lv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.lv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.mk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.mk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.nl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.no.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.no-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-br-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-br-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-br.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-br-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-short.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-short-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.pt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ro.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.rs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.rs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ru.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.rw.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.rw-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.si.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.si-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sl.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.sv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.th.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.th-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.tr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.tr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.uk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.uk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.uz.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.uz-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.vi.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.vi-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.zh-CN.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.zh-CN-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.zh-TW.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/js\/timeago\/locales\/jquery.timeago.zh-TW-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-ar.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-ar.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-ar.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-ar.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-da_DK.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-da_DK.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-da_DK.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-da_DK.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-de_DE.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-de_DE.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-de_DE.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-de_DE.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-fi.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-fi.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-fi.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-fi.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-fr_FR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-fr_FR.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-fr_FR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-fr_FR.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-nl_NL.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-nl_NL.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-nl_NL.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-nl_NL.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-pl_PL.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-pl_PL.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-pl_PL.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-pl_PL.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-pt_BR.pot",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-sv_SE.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-sv_SE.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-sv_SE.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-sv_SE.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-zh_CN.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-zh_CN.mo",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history-zh_CN.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history-zh_CN.po",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/languages\/simple-history.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/languages\/simple-history.pot",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/AvailableUpdatesLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/AvailableUpdatesLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/FileEditsLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/FileEditsLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/Plugin_DuplicatePost.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/Plugin_DuplicatePost.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/Plugin_LimitLoginAttempts.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/Plugin_LimitLoginAttempts.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/Plugin_Redirection.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/Plugin_Redirection.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/Plugin_UltimateMembers_Logger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/Plugin_UltimateMembers_Logger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/PluginEnableMediaReplaceLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/PluginEnableMediaReplaceLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/PluginUserSwitchingLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/PluginUserSwitchingLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleCategoriesLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleCategoriesLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleCommentsLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleCommentsLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleCoreUpdatesLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleCoreUpdatesLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleExportLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleExportLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleLegacyLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleLegacyLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleMediaLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleMediaLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleMenuLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleMenuLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleOptionsLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleOptionsLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimplePluginLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimplePluginLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimplePostLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimplePostLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleThemeLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleThemeLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/loggers\/SimpleUserLogger.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/loggers\/SimpleUserLogger.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/wp-content\/plugins\/simple-history\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/wp-content\/plugins\/simple-history\/phpunit.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/phpunit.xml",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/wp-content\/plugins\/simple-history\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/readme.txt",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-general.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-general.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-log.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-log.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsForGeeks.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsForGeeks.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsInitiators.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsInitiators.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsIntro.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsIntro.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsLoggers.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsLoggers.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsLogLevels.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsLogLevels.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsRowsPerDay.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsRowsPerDay.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-statsUsers.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-statsUsers.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/settings-style-example.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/settings-style-example.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/templates\/template-settings-tab-debug.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/templates\/template-settings-tab-debug.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/tests\/bootstrap.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/tests\/bootstrap.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/tests\/test-simplehistory.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/tests\/test-simplehistory.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/simple-history\/uninstall.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/simple-history\/uninstall.php",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/wordpress-seo\/admin\/ajax.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -17764,6 +19538,66 @@
 		"oAP": "\/wp-content\/themes\/blink\/header.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/blink\/images\/1.jpg": {
+		"ft": 16384,
+		"iS": 73102,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/2.jpg": {
+		"ft": 16384,
+		"iS": 64153,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/3.jpg": {
+		"ft": 16384,
+		"iS": 61470,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/4.jpg": {
+		"ft": 16384,
+		"iS": 67985,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/5.jpg": {
+		"ft": 16384,
+		"iS": 73852,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/6.jpg": {
+		"ft": 16384,
+		"iS": 67352,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/themes\/blink\/images\/b.jpg": {
 		"ft": 16384,
 		"iS": 2108,
@@ -18622,6 +20456,186 @@
 		"iS": 14887,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2017\/07\/test2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/1-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6938,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/1-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/1-300x229.jpg": {
+		"ft": 16384,
+		"iS": 17366,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/1-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/1.jpg": {
+		"ft": 16384,
+		"iS": 73102,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/2-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6318,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/2-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/2-300x229.jpg": {
+		"ft": 16384,
+		"iS": 15673,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/2-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/2.jpg": {
+		"ft": 16384,
+		"iS": 64153,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/3-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6534,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/3-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/3-300x229.jpg": {
+		"ft": 16384,
+		"iS": 15343,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/3-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/3.jpg": {
+		"ft": 16384,
+		"iS": 61470,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/4-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6164,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/4-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/4-300x229.jpg": {
+		"ft": 16384,
+		"iS": 15802,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/4-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/4.jpg": {
+		"ft": 16384,
+		"iS": 67985,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/5-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6548,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/5-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/5-300x229.jpg": {
+		"ft": 16384,
+		"iS": 16685,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/5-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/5.jpg": {
+		"ft": 16384,
+		"iS": 73852,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/6-150x150.jpg": {
+		"ft": 16384,
+		"iS": 6660,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/6-150x150.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/6-300x229.jpg": {
+		"ft": 16384,
+		"iS": 16383,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/6-300x229.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2017\/08\/6.jpg": {
+		"ft": 16384,
+		"iS": 67352,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2017\/08\/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

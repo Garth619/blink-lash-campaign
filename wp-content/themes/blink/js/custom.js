@@ -31,12 +31,13 @@ jQuery(document).ready(function(){
 	
 	$('.slideshow').slick({
  		 infinite: true,
- 		 slidesToShow: 2,
- 		 slidesToScroll: 2,
+ 		 slidesToShow: 1,
+ 		 slidesToScroll: 1,
  		 slide: '.slideshow .slide',
  		 prevArrow: '.buttons .back',
  		 nextArrow: '.buttons .next',
  		 
+/*
  		 responsive: [
  		 {
       breakpoint: 760,
@@ -45,6 +46,7 @@ jQuery(document).ready(function(){
       }
     }
   ]
+*/
 });
 
 
