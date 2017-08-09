@@ -162,9 +162,9 @@ get_header(); ?>
 			
 			
 			
-			<a class="book_now desktop_book_now" href="<?php the_field( 'mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now desktop_book_now" href="<?php the_field( 'mission_valley_book_now_link' ); ?>" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
-			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_mission_valley_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mobile_-_mission_valley_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_mission_valley_book_now_link' ); ?>" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 		
@@ -204,10 +204,10 @@ get_header(); ?>
 			
 			</div><!-- location_content -->
 			
-			<a class="book_now desktop_book_now" href="<?php the_field( 'solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now desktop_book_now" href="<?php the_field( 'solana_beach_book_now_link' ); ?>" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 			
-			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_solana_beach_book_now_link' ); ?>" onclick="goog_report_conversion ('<?php the_field( 'mobile_-_solana_beach_book_now_link' ); ?>')" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
+			<a class="book_now mobile_book_now" href="<?php the_field( 'mobile_-_solana_beach_book_now_link' ); ?>" target="_blank"><?php the_field( 'book_now_button_verbiage' ); ?></a><!-- book_now -->
 			
 		</div><!-- location -->
 	

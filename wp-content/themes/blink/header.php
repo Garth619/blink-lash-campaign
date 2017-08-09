@@ -27,7 +27,25 @@
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php wp_head(); ?>
-<?php the_field( 'header_scripts' ); ?>
+
+
+
+<?php 
+	
+	if(is_front_page()) {
+
+		the_field( 'header_scripts' ); 
+
+	} 
+
+ if(is_page_template('page-thankyou.php')) {
+
+ 		the_field( 'thank_you_header_scripts' );
+
+} ?>
+
+
+
 </head>
 
 <body <?php body_class(); ?>>
