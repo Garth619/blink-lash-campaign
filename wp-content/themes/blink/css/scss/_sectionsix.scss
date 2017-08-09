@@ -1,0 +1,53 @@
+.section_six {
+	padding-bottom:70px;
+	background: url(#{$themePath}images/formbg.jpg) top left no-repeat;
+	background-size:cover;
+	float: left;
+	width:100%;
+	
+	h1 {
+			font-family: $glosa;
+			color:$grey;
+			font-style: normal;
+			font-weight: 300;
+			font-size:37px;
+			margin:20px 0 0 0;
+			display: block;
+			line-height: 40px;
+			&:after {
+				content: "";
+				width:100px;
+				height:3px;
+				background:$pinklight;
+				display: block;
+				margin:10px auto 5px;
+			}
+		}
+}
+
+
+@media screen and (max-width: 1095px) {
+	
+	.section_six {
+		padding-bottom:130px;
+	}
+	
+	
+	.form_wrapper {
+		width:94%;
+		
+	}
+	
+	
+} /* Media Query */
+
+
+
+@media screen and (max-width: 800px) {
+	
+	
+	.section_six {
+		padding-bottom:80px;
+	}
+	
+} /* Media Query */

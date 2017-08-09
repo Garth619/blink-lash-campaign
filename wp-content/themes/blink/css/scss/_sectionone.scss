@@ -4,11 +4,14 @@
 }
 
 .col {
-	float:left;
+// 	float:left;
 }
 
 .col_left {
-	width:52%;
+	width: 100%;
+	max-width:550px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .col_right {
@@ -45,22 +48,29 @@ img.intro {
 
 
 .form_wrapper {
-	background: $grey;
-	border-radius: 10px;
-	padding:25px 30px;
+	background: #fff;
+	max-width:650px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: -128px;
+// 	border-radius: 10px;
+	padding:40px 4%;
 	text-align: center;
-	margin-top:30px;
-	span.learn_more {
-		color:#fff;
-		font-size: 21px;
-		text-transform: uppercase;
+	
+	h1.learn_more {
+		color:$grey;
+		font-size: 29px;
+		text-transform: none;
 		display: block;
+		font-family: $glosa;
 	}
 	a.call {
-		color:#fff;
+		color:$grey;
 		text-decoration: none;
 		font-family:$josefinsemibold;
-		font-size:40px;
+		font-size:30px;
+		margin-top:10px;
+		display: block;
 	}
 	ul {
 		list-style: none;
@@ -68,44 +78,39 @@ img.intro {
 		li {
 			width:100%;
 			position: relative;
+			margin-bottom:20px;
 			label {
 				display: none;
 			}
-			input {
-				
-			}
-			textarea {
-				height: 150px;
-			}
+			
+			
 			input,textarea {
 				width:100%;
 				border:none;
 				font-size: 16px;
 				padding:8px;
 				font-family:$josefinsemibold;
-				margin-bottom:10px;
+				
 				color:$grey;
 				border-radius: 0;
+				
+			}
+			input {
+				border-bottom:1px #e7e7e7 solid;
+			}
+			textarea {
+				height: 150px;
+				border:1px #e7e7e7 solid;
 			}
 		}
 		li#field_1_7 {
 			margin-top:-10px;
 			margin-bottom:8px;
-			.ginput_container.ginput_container_checkbox {
-// 				width:30px;
-			}
-			
-			label {
-				
-			}
+
 			.gfield_description {
 				font-size:17px;
-				color:#fff;
-				position: relative;
-/*
-				top: -24px;
-				left: -12px;
-*/
+				color:#7a868c;
+
 			}
 		}
 		li.gchoice_1_7_1 {
@@ -113,14 +118,13 @@ img.intro {
 			overflow:hidden;
 			input#choice_1_7_1 {
 				width:30px;
-			float:left;
-		
-			background:#fff;
+				float:left;
+				background:#fff;
 			}
 			label {
 				float:left;
 				width:calc(100% - 30px);
-				color:#fff;
+				color:#7a868c;
 				font-size: 17px;
 				display: block;
 			}
@@ -153,16 +157,17 @@ img.intro {
 		
 	}
 	.gfield_description, .validation_message {
-		font-size: 11px;
+		font-size: 13px;
 		left: 8px;
     position: absolute;
    
 	}
 	.gfield_description {
-		  top: 25px;
+		  top: 40px;
 	}
 	.instruction {
-		  top: 0px;
+		  top: 40px;
+		  display: none;
 	}
 }
 

@@ -20,20 +20,7 @@ get_header(); ?>
 			
 		</div><!-- col -->
 		
-		<div class="col col_right">
-			
-			<div id="myform" class="form_wrapper">
-				
-				<span class="learn_more"><?php the_field( 'form_call_to_action' ); ?></span><!-- learn_more -->
-				
-				<a class="call" href="tel:<?php the_field( 'phone_number' ); ?>"><?php the_field( 'phone_number' ); ?></a>
-				
-				<?php gravity_form(1, false, false, false, '', true, 12); ?>
-				
-				
-			</div><!-- form_wrapper -->
-			
-		</div><!-- col -->
+		
 	
 	</div><!-- inner_section_one -->
 	
@@ -244,6 +231,23 @@ get_header(); ?>
 	</div><!-- inner_wrapper -->
 	
 </section><!-- section_five -->
+
+<section class="section_six">
+	
+	
+	<div id="myform" class="form_wrapper">
+				
+		<h1><?php the_field( 'form_call_to_action' ); ?></h1>
+				
+		<a class="call" href="tel:<?php the_field( 'phone_number' ); ?>"><?php the_field( 'phone_number' ); ?></a>
+				
+		<?php gravity_form(1, false, false, false, '', true, 12); ?>
+				
+				
+	</div><!-- form_wrapper -->
+	
+	
+</section><!-- section_six -->
 
 
 
