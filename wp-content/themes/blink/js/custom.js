@@ -19,12 +19,44 @@ d.slice(e-c+1,e+c+2).addClass("slick-active").attr("aria-hidden","false")),0===a
 
 
 
+// Video
+  var video = document.getElementById("video");
 
+  // Buttons
+  var playButton = document.getElementById("play-pause");
+  
 
+// Event listener for the play/pause button
+playButton.addEventListener("click", function() {
+  if (video.paused == true) {
+    // Play the video
+    video.play();
+
+    
+  } else {
+    // Pause the video
+    video.pause();
+
+   
+  }
+});
 
 
 
 jQuery(document).ready(function(){
+	
+	
+	
+	$('.intro_wrapper').click(function(){
+	
+		
+		$('.play_content, .play_overlay').toggleClass('show');
+		
+		$('.pause_wrapper').toggleClass('show');
+	
+	
+	});
+
 	
 	
 	
@@ -36,18 +68,7 @@ jQuery(document).ready(function(){
  		 slide: '.slideshow .slide',
  		 prevArrow: '.buttons .back',
  		 nextArrow: '.buttons .next',
- 		 
-/*
- 		 responsive: [
- 		 {
-      breakpoint: 760,
-      settings: {
-        vertical:true
-      }
-    }
-  ]
-*/
-});
+	});
 
 
 $(function() {

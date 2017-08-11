@@ -16,9 +16,17 @@ get_header(); ?>
 			
 			<span class="tagline"><?php the_field( 'tagline' ); ?></span><!-- tagline -->
 			
-			<div class="intro_wrapper">
+			<div id="play-pause" class="intro_wrapper">
 				
-				<div class="play_content">
+				<div class="pause_wrapper">
+					<div class="pause_bar"></div>
+					<div class="pause_bar"></div>
+					<span>Pause</span>
+				</div>
+				
+				<div class="play_content show">
+					
+					
 					
 					<div class="tri_wrapper">
 						
@@ -30,11 +38,24 @@ get_header(); ?>
 					
 				</div><!-- play_content -->
 				
-				<div class="play_overlay"></div><!-- play_overlay -->
+				<div class="play_overlay show"></div><!-- play_overlay -->
 			
-				<img class="intro" src="<?php bloginfo('template_directory');?>/images/intro2.jpg" alt="Blink Lash Botuique Model"/>
+<!-- 				<img class="intro" src="<?php bloginfo('template_directory');?>/images/intro2.jpg" alt="Blink Lash Botuique Model"/> -->
+				
+				<video id="video" poster="<?php bloginfo('template_directory');?>/images/intro2.jpg" preload="meta" autobuffer>
+					
+					
+					<source src="<?php bloginfo('template_directory');?>/images/video.webm" type="video/webm">
+					<source src="<?php bloginfo('template_directory');?>/images/video.ogg" type="video/ogv">
+					<source src="<?php bloginfo('template_directory');?>/images/video.mp4" type="video/mp4">
+					
+				</video>
+				
 			
 			</div><!--intro_wrapper -->
+			
+				
+			
 			
 		</div><!-- col -->
 		

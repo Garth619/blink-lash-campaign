@@ -52,6 +52,44 @@ span.tagline {
 			}
 		}
 	}
+	.pause_wrapper.show {
+		opacity: 1;
+		visibility: visible;
+	}
+	.pause_wrapper {
+			display: block;
+			position: absolute;
+			top:10px;
+			overflow: hidden;
+			left:10px;
+			z-index:5;
+			transition: all .2s ease-in-out;
+			opacity: 0;
+			visibility: hidden;
+			&:hover {
+				.pause_bar {
+					background:#fff;
+				}
+			}
+			.pause_bar {
+				width:4px;
+				height:14px;
+				background: $pinklight;
+				margin:0 2px;
+				float: left;
+				transition: all .2s ease-in-out;
+			}
+			span {
+				float:left;
+				color:#fff;
+				margin-left:5px;
+				margin-top:1px;
+			}
+		}
+	.play_content.show {
+		opacity: 1;
+		visibility: visible;
+	}
 	.play_content {
 		position: absolute;
 		bottom:18%;
@@ -59,6 +97,9 @@ span.tagline {
 		z-index:1;
 		text-align: center;
 		width:100%;
+		opacity: 0;
+		visibility: hidden;
+		transition: all .2s ease-in-out;
 		.tri_wrapper {
 			background:$pinklight;
 			width:65px;
@@ -68,8 +109,6 @@ span.tagline {
 			margin-left:auto;
 			margin-right:auto;
 			transition: all .2s ease-in-out;
-			
-			
 			.tri {
 				width: 0; 
 				height: 0; 
@@ -89,13 +128,20 @@ span.tagline {
 			font-size: 22px;
 		}
 	}
+	.play_overlay.show {
+		opacity: 1;
+		visibility: visible;
+	}
 	.play_overlay {
 		position: absolute;
 		top:0;
 		left:0;
 		width:100%;
 		height:100%;
-		background: rgba(0, 0, 0, 0.2);
+		background: rgba(0, 0, 0, 0.3);
+		transition: all .2s ease-in-out;
+		opacity: 0;
+		visibility: hidden;
 	}
 	img.intro {
 		max-width: 100%;
@@ -103,10 +149,38 @@ span.tagline {
 		height:auto;
 		display: block;
 	}
+	video {
+		max-width:100%;
+		height:auto;
+		display: block;
+	}
 }
 
 
+/* This used to work for parent element of button divs */
 
+/* But it is not enough now, below dont hide play button parent div */
+
+*::-webkit-media-controls-panel {
+  display: none!important;
+  -webkit-appearance: none;
+}
+
+/* Old shadow dom for play button */
+
+*::--webkit-media-controls-play-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+
+/* New shadow dom for play button */
+
+/* This one works */
+
+*::-webkit-media-controls-start-playback-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
 
 
 
@@ -239,6 +313,8 @@ span.tagline {
 
 @media screen and (max-width: 1075px) {
 	
+	
+	
 	.section_one {
 		.inner_wrapper {
 			max-width:600px
@@ -264,6 +340,9 @@ span.tagline {
 	
 .intro_wrapper {
 	
+	.pause_wrapper.show, .pause_wrapper {
+		display: none !important
+	}
 	.play_content {
 		
 		.tri_wrapper {

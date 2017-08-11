@@ -20171,6 +20171,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/themes\/blink\/images\/video.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/blink\/images\/video.mp4",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/blink\/images\/video.ogg": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/blink\/images\/video.ogg",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/blink\/images\/video.webm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/blink\/images\/video.webm",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/blink\/index.php": {
 		"ft": 8192,
 		"oA": 2,
