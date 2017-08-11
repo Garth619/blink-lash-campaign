@@ -19,7 +19,14 @@ d.slice(e-c+1,e+c+2).addClass("slick-active").attr("aria-hidden","false")),0===a
 
 
 
-// Video
+
+
+
+jQuery(document).ready(function(){
+	
+	
+	
+	// Video
   var video = document.getElementById("video");
 
   // Buttons
@@ -41,9 +48,6 @@ playButton.addEventListener("click", function() {
   }
 });
 
-
-
-jQuery(document).ready(function(){
 	
 	
 	
