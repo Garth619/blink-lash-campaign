@@ -40,7 +40,7 @@ get_header(); ?>
 				
 				<div class="play_overlay show"></div><!-- play_overlay -->
 			
-<!-- 				<img class="intro" src="<?php bloginfo('template_directory');?>/images/intro2.jpg" alt="Blink Lash Botuique Model"/> -->
+
 				
 				<video id="video" poster="<?php bloginfo('template_directory');?>/images/intro2.jpg" preload="meta" autobuffer>
 					
