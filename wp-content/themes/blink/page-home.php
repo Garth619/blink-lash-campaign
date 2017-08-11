@@ -16,7 +16,25 @@ get_header(); ?>
 			
 			<span class="tagline"><?php the_field( 'tagline' ); ?></span><!-- tagline -->
 			
-			<img class="intro" src="<?php the_field( 'intro_image' ); ?>" alt="Blink Lash Botuique Model"/>
+			<div class="intro_wrapper">
+				
+				<div class="play_content">
+					
+					<div class="tri_wrapper">
+						
+						<div class="tri"></div><!-- tri -->
+						
+					</div><!-- tri_wrapper -->
+					
+					<span class="play_verbiage">Learn About Blink Lash Boutique</span><!-- play_verbiage -->
+					
+				</div><!-- play_content -->
+				
+				<div class="play_overlay"></div><!-- play_overlay -->
+			
+				<img class="intro" src="<?php bloginfo('template_directory');?>/images/intro2.jpg" alt="Blink Lash Botuique Model"/>
+			
+			</div><!--intro_wrapper -->
 			
 		</div><!-- col -->
 		
