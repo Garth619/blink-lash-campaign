@@ -42,7 +42,7 @@ get_header(); ?>
 			
 
 				
-				<video id="video" poster="<?php bloginfo('template_directory');?>/images/intro2.jpg" preload="meta" autobuffer>
+				<video id="video" poster="<?php the_field( 'intro_image' ); ?>" preload="meta" autobuffer>
 					
 					
 					<source src="<?php bloginfo('template_directory');?>/images/video.webm" type="video/webm">
