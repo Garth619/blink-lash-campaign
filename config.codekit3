@@ -23,39 +23,11 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
-	"\/.htaccess.sb-5a5ff120-YQoJUM": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.htaccess.sb-5a5ff120-YQoJUM",
-		"oF": 0
-		},
-	"\/.htaccess.sb-db292528-mKBZtm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.htaccess.sb-db292528-mKBZtm",
-		"oF": 0
-		},
-	"\/.htaccess.sb-db292528-S4IjME": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.htaccess.sb-db292528-S4IjME",
-		"oF": 0
-		},
 	"\/.installedExtras": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.installedExtras",
-		"oF": 0
-		},
-	"\/blinkcampaign.sql.gz": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blinkcampaign.sql.gz",
 		"oF": 0
 		},
 	"\/index.php": {
@@ -22151,6 +22123,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/wp-content\/themes\/blink\/images\/slidenew-1.jpg": {
+		"ft": 16384,
+		"iS": 77449,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/slidenew-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/themes\/blink\/images\/slidenew-2.jpg": {
+		"ft": 16384,
+		"iS": 78848,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/blink\/images\/slidenew-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/wp-content\/themes\/blink\/images\/test1.jpg": {
 		"ft": 16384,
 		"iS": 31935,
@@ -23265,6 +23257,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/uploads\/wp-migrate-db\/.htaccess",
+		"oF": 0
+		},
+	"\/wp-content\/uploads\/wp-migrate-db\/blinkcampaign-backup-20171114034448-pfrvc.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/uploads\/wp-migrate-db\/blinkcampaign-backup-20171114034448-pfrvc.sql",
 		"oF": 0
 		},
 	"\/wp-content\/uploads\/wp-migrate-db\/index.php": {
