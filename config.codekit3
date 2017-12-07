@@ -259,6 +259,46 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/wp-admin\/css\/code-editor-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-admin\/css\/code-editor-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-admin\/css\/code-editor-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-admin\/css\/code-editor-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-admin\/css\/code-editor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-admin\/css\/code-editor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-admin\/css\/code-editor.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-admin\/css\/code-editor.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/wp-admin\/css\/color-picker-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1456,86 +1496,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/wp-admin\/css\/nav-menus.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-editor-rtl.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-editor-rtl-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-editor-rtl.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-editor-rtl.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-editor.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-editor-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-editor.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-editor.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-rtl.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-rtl-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this-rtl.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-rtl.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/wp-admin\/css\/press-this.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-admin\/css\/press-this.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -2831,13 +2791,6 @@
 		"oAP": "\/wp-admin\/includes\/class-wp-posts-list-table.php",
 		"oF": 0
 		},
-	"\/wp-admin\/includes\/class-wp-press-this.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-admin\/includes\/class-wp-press-this.php",
-		"oF": 0
-		},
 	"\/wp-admin\/includes\/class-wp-screen.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3215,22 +3168,22 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-admin\/js\/bookmarklet.js": {
+	"\/wp-admin\/js\/code-editor.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-admin\/js\/bookmarklet-min.js",
+		"oAP": "\/wp-admin\/js\/code-editor-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-admin\/js\/bookmarklet.min.js": {
+	"\/wp-admin\/js\/code-editor.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-admin\/js\/bookmarklet.min-min.js",
+		"oAP": "\/wp-admin\/js\/code-editor.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -3765,26 +3718,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-admin\/js\/press-this.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-admin\/js\/press-this-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-admin\/js\/press-this.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-admin\/js\/press-this.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/wp-admin\/js\/revisions.js": {
 		"ft": 64,
 		"ma": 0,
@@ -3905,6 +3838,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/wp-admin\/js\/theme-plugin-editor.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/theme-plugin-editor-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-admin\/js\/theme-plugin-editor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/theme-plugin-editor.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/wp-admin\/js\/theme.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4005,6 +3958,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/wp-admin\/js\/widgets\/custom-html-widgets.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/widgets\/custom-html-widgets-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-admin\/js\/widgets\/custom-html-widgets.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/widgets\/custom-html-widgets.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/wp-admin\/js\/widgets\/media-audio-widget.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4021,6 +3994,26 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-admin\/js\/widgets\/media-audio-widget.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-admin\/js\/widgets\/media-gallery-widget.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/widgets\/media-gallery-widget-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-admin\/js\/widgets\/media-gallery-widget.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-admin\/js\/widgets\/media-gallery-widget.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4403,6 +4396,13 @@
 		"oAP": "\/wp-admin\/network\/plugins.php",
 		"oF": 0
 		},
+	"\/wp-admin\/network\/privacy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-admin\/network\/privacy.php",
+		"oF": 0
+		},
 	"\/wp-admin\/network\/profile.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4627,6 +4627,13 @@
 		"oAP": "\/wp-admin\/press-this.php",
 		"oF": 0
 		},
+	"\/wp-admin\/privacy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-admin\/privacy.php",
+		"oF": 0
+		},
 	"\/wp-admin\/profile.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4774,6 +4781,13 @@
 		"oAP": "\/wp-admin\/user\/menu.php",
 		"oF": 0
 		},
+	"\/wp-admin\/user\/privacy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-admin\/user\/privacy.php",
+		"oF": 0
+		},
 	"\/wp-admin\/user\/profile.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4830,18 +4844,24 @@
 		"oAP": "\/wp-config.php",
 		"oF": 0
 		},
+	"\/wp-content\/advanced-cache.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/advanced-cache.php",
+		"oF": 0
+		},
+	"\/wp-content\/cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/wp-content\/cache",
+		"oF": 0
+		},
 	"\/wp-content\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/index.php",
-		"oF": 0
-		},
-	"\/wp-content\/mu-plugins\/wp-migrate-db-pro-compatibility.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/mu-plugins\/wp-migrate-db-pro-compatibility.php",
 		"oF": 0
 		},
 	"\/wp-content\/plugins\/acf-content-analysis-for-yoast-seo\/inc\/class-ac-yoast-acf-content-analysis.php": {
@@ -25327,6 +25347,13 @@
 		"oAP": "\/wp-content\/uploads\/wp-migrate-db\/index.php",
 		"oF": 0
 		},
+	"\/wp-content\/wp-cache-config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/wp-cache-config.php",
+		"oF": 0
+		},
 	"\/wp-cron.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -26442,6 +26469,13 @@
 		"oAP": "\/wp-includes\/customize\/class-wp-customize-background-position-control.php",
 		"oF": 0
 		},
+	"\/wp-includes\/customize\/class-wp-customize-code-editor-control.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/customize\/class-wp-customize-code-editor-control.php",
+		"oF": 0
+		},
 	"\/wp-includes\/customize\/class-wp-customize-color-control.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -26461,6 +26495,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-includes\/customize\/class-wp-customize-custom-css-setting.php",
+		"oF": 0
+		},
+	"\/wp-includes\/customize\/class-wp-customize-date-time-control.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/customize\/class-wp-customize-date-time-control.php",
 		"oF": 0
 		},
 	"\/wp-includes\/customize\/class-wp-customize-filter-setting.php": {
@@ -26531,6 +26572,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-includes\/customize\/class-wp-customize-nav-menu-location-control.php",
+		"oF": 0
+		},
+	"\/wp-includes\/customize\/class-wp-customize-nav-menu-locations-control.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/customize\/class-wp-customize-nav-menu-locations-control.php",
 		"oF": 0
 		},
 	"\/wp-includes\/customize\/class-wp-customize-nav-menu-name-control.php": {
@@ -26608,6 +26656,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-includes\/customize\/class-wp-customize-theme-control.php",
+		"oF": 0
+		},
+	"\/wp-includes\/customize\/class-wp-customize-themes-panel.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/customize\/class-wp-customize-themes-panel.php",
 		"oF": 0
 		},
 	"\/wp-includes\/customize\/class-wp-customize-themes-section.php": {
@@ -27727,6 +27782,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/wp-includes\/js\/api-request.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/api-request-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/api-request.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/api-request.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/wp-includes\/js\/autosave.js": {
 		"ft": 64,
 		"ma": 0,
@@ -27753,6 +27828,76 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/backbone.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/codemirror.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/codemirror.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-includes\/js\/codemirror\/codemirror.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/codemirror.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/csslint.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/csslint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/htmlhint-kses.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/htmlhint-kses-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/htmlhint.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/htmlhint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/jshint.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/jshint-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/codemirror\/jsonlint.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/codemirror\/jsonlint-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -28807,94 +28952,225 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-includes\/js\/mediaelement\/background.png": {
-		"ft": 32768,
-		"iS": 166,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/background.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/wp-includes\/js\/mediaelement\/bigplay.png": {
-		"ft": 32768,
-		"iS": 3001,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/bigplay.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/wp-includes\/js\/mediaelement\/bigplay.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/mediaelement\/bigplay.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-includes\/js\/mediaelement\/controls.png": {
-		"ft": 32768,
-		"iS": 1892,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/controls.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/wp-includes\/js\/mediaelement\/controls.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/mediaelement\/controls.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/wp-includes\/js\/mediaelement\/flashmediaelement.swf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/mediaelement\/flashmediaelement.swf",
-		"oF": 0
-		},
-	"\/wp-includes\/js\/mediaelement\/froogaloop.min.js": {
+	"\/wp-includes\/js\/mediaelement\/lang\/ca.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/froogaloop.min-min.js",
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/ca-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-includes\/js\/mediaelement\/jumpforward.png": {
-		"ft": 32768,
-		"iS": 1563,
+	"\/wp-includes\/js\/mediaelement\/lang\/cs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/jumpforward.png",
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/cs-min.js",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"sC": 1,
+		"tS": 0
 		},
-	"\/wp-includes\/js\/mediaelement\/loading.gif": {
-		"ft": 4194304,
-		"iS": 6224,
+	"\/wp-includes\/js\/mediaelement\/lang\/de.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/loading.gif",
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/de-min.js",
 		"oF": 0,
-		"opt": 0
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/es.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/es-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/fa.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/fa-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/fr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/fr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/hr.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/hr-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/hu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/hu-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/it.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/it-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/ja.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/ja-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/ko.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/ko-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/nl.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/nl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/pl.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/pl-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/pt.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/pt-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/ro.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/ro-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/ru.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/ru-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/sk.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/sk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/sv.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/sv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/uk.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/uk-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/zh-cn.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/zh-cn-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/lang\/zh.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/lang\/zh-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-and-player.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-and-player-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/wp-includes\/js\/mediaelement\/mediaelement-and-player.min.js": {
 		"ft": 64,
@@ -28906,6 +29182,111 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-flash-audio-ogg.swf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-flash-audio-ogg.swf",
+		"oF": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-flash-audio.swf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-flash-audio.swf",
+		"oF": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-flash-video-hls.swf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-flash-video-hls.swf",
+		"oF": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-flash-video-mdash.swf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-flash-video-mdash.swf",
+		"oF": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-flash-video.swf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-flash-video.swf",
+		"oF": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-migrate.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-migrate-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement-migrate.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-migrate.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelement.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelement.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/wp-includes\/js\/mediaelement\/mediaelementplayer.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mediaelementplayer-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/wp-includes\/js\/mediaelement\/mediaelementplayer.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -28916,23 +29297,126 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/wp-includes\/js\/mediaelement\/silverlightmediaelement.xap": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/mediaelement\/silverlightmediaelement.xap",
-		"oF": 0
-		},
-	"\/wp-includes\/js\/mediaelement\/skipback.png": {
+	"\/wp-includes\/js\/mediaelement\/mejs-controls.png": {
 		"ft": 32768,
-		"iS": 4245,
+		"iS": 2883,
 		"oA": 0,
-		"oAP": "\/wp-includes\/js\/mediaelement\/skipback.png",
+		"oAP": "\/wp-includes\/js\/mediaelement\/mejs-controls.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/wp-includes\/js\/mediaelement\/mejs-controls.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-includes\/js\/mediaelement\/mejs-controls.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/dailymotion.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/dailymotion-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/dailymotion.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/dailymotion.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/facebook.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/facebook-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/facebook.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/facebook.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/soundcloud.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/soundcloud-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/soundcloud.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/soundcloud.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/twitch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/twitch-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/twitch.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/twitch.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/vimeo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/vimeo-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/mediaelement\/renderers\/vimeo.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/mediaelement\/renderers\/vimeo.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/wp-includes\/js\/mediaelement\/wp-mediaelement.css": {
 		"aP": 1,
@@ -29021,29 +29505,45 @@
 		"oAP": "\/wp-includes\/js\/plupload\/license.txt",
 		"oF": 0
 		},
-	"\/wp-includes\/js\/plupload\/plupload.flash.swf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/plupload\/plupload.flash.swf",
-		"oF": 0
-		},
-	"\/wp-includes\/js\/plupload\/plupload.full.min.js": {
+	"\/wp-includes\/js\/plupload\/moxie.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-includes\/js\/plupload\/plupload.full.min-min.js",
+		"oAP": "\/wp-includes\/js\/plupload\/moxie-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-includes\/js\/plupload\/plupload.silverlight.xap": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/plupload\/plupload.silverlight.xap",
-		"oF": 0
+	"\/wp-includes\/js\/plupload\/moxie.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/plupload\/moxie.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/plupload\/plupload.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/plupload\/plupload-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/plupload\/plupload.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/plupload\/plupload.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/wp-includes\/js\/plupload\/wp-plupload.js": {
 		"ft": 64,
@@ -29142,46 +29642,6 @@
 		"oAP": "\/wp-includes\/js\/swfupload\/license.txt",
 		"oF": 0
 		},
-	"\/wp-includes\/js\/swfupload\/plugins\/swfupload.cookies.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/swfupload\/plugins\/swfupload.cookies-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-includes\/js\/swfupload\/plugins\/swfupload.queue.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/swfupload\/plugins\/swfupload.queue-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-includes\/js\/swfupload\/plugins\/swfupload.speed.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/swfupload\/plugins\/swfupload.speed-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-includes\/js\/swfupload\/plugins\/swfupload.swfobject.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-includes\/js\/swfupload\/plugins\/swfupload.swfobject-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/wp-includes\/js\/swfupload\/swfupload.js": {
 		"ft": 64,
 		"ma": 0,
@@ -29191,13 +29651,6 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
-		},
-	"\/wp-includes\/js\/swfupload\/swfupload.swf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-includes\/js\/swfupload\/swfupload.swf",
-		"oF": 0
 		},
 	"\/wp-includes\/js\/thickbox\/loadingAnimation.gif": {
 		"ft": 4194304,
@@ -29401,6 +29854,26 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-includes\/js\/tinymce\/plugins\/image\/plugin.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/tinymce\/plugins\/link\/plugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/tinymce\/plugins\/link\/plugin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/tinymce\/plugins\/link\/plugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/tinymce\/plugins\/link\/plugin.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -30416,6 +30889,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/wp-includes\/js\/wp-sanitize.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/wp-sanitize-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-includes\/js\/wp-sanitize.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-includes\/js\/wp-sanitize.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/wp-includes\/js\/wp-util.js": {
 		"ft": 64,
 		"ma": 0,
@@ -30672,6 +31165,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-includes\/pomo\/mo.php",
+		"oF": 0
+		},
+	"\/wp-includes\/pomo\/plural-forms.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/pomo\/plural-forms.php",
 		"oF": 0
 		},
 	"\/wp-includes\/pomo\/po.php": {
@@ -31604,6 +32104,13 @@
 		"oAP": "\/wp-includes\/SimplePie\/XML\/Declaration\/Parser.php",
 		"oF": 0
 		},
+	"\/wp-includes\/spl-autoload-compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/spl-autoload-compat.php",
+		"oF": 0
+		},
 	"\/wp-includes\/taxonomy.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -31807,6 +32314,13 @@
 		"oAP": "\/wp-includes\/widgets\/class-wp-widget-categories.php",
 		"oF": 0
 		},
+	"\/wp-includes\/widgets\/class-wp-widget-custom-html.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/widgets\/class-wp-widget-custom-html.php",
+		"oF": 0
+		},
 	"\/wp-includes\/widgets\/class-wp-widget-links.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -31819,6 +32333,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-includes\/widgets\/class-wp-widget-media-audio.php",
+		"oF": 0
+		},
+	"\/wp-includes\/widgets\/class-wp-widget-media-gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-includes\/widgets\/class-wp-widget-media-gallery.php",
 		"oF": 0
 		},
 	"\/wp-includes\/widgets\/class-wp-widget-media-image.php": {
