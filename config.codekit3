@@ -23300,6 +23300,13 @@
 		"oAP": "\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-get-cache.php",
 		"oF": 0
 		},
+	"\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-get-plugins.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-get-plugins.php",
+		"oF": 0
+		},
 	"\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-get-settings.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -23333,6 +23340,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-test-cache.php",
+		"oF": 0
+		},
+	"\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-update-plugins.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-update-plugins.php",
 		"oF": 0
 		},
 	"\/wp-content\/plugins\/wp-super-cache\/rest\/class.wp-super-cache-rest-update-settings.php": {
